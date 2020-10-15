@@ -4,6 +4,13 @@ I am an Information Security Professional with more than 6 years of professional
 
 Currently interested in AppSec, InfoSec, DevSecOps, DevOps, Cloud Security.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/anandtiwarics?label=Follow)
+[![Linkedin: anmol](https://img.shields.io/badge/-anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anandsundartiwari/)](https://www.linkedin.com/in/anandsundartiwari/)
+![GitHub followers](https://img.shields.io/github/followers/anandtiwarics?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anandtiwari.info/)](https://anandtiwari.info/)
+![](https://visitor-badge.glitch.me/badge?page_id=anandtiwiarcs.anandtiwarics)
+![Waka Readme](https://github.com/anandtiwarics/anandtiwarics/workflows/Waka%20Readme/badge.svg)
+
 <!--
 **anandtiwarics/anandtiwarics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
