@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Information Security Professional with more than 6 years of professional experience. I love to play with open-source tools and more inclined towards defense than offense in the Information Security domain. I works with the Operation and Development team, solving challenging between security and DevOps team.
+I am an Information Security Professional. I love to play with open-source tools and more inclined towards defense than offense in the Information Security domain. I works with the Operation and Development team, solving challenging between security and DevOps team.
 
 Currently interested in AppSec, InfoSec, DevSecOps, DevOps, Cloud Security.
 
