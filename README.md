@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 202 Contributions in the Year 2020
+> 🏆 205 Contributions in the Year 2020
  > 
 > 📦 189.1 kB Used in Github's Storage 
  > 
