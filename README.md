@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 59 Public Repositories
+> 📜 59 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 9 Private Repositories  
 
 **I'm a Night 🦉** 
 
