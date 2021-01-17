@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 2 Contributions in the Year 2021
  > 
 > 📦 191.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 62 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
