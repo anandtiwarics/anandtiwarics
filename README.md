@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  > 
 > 📜 67 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
