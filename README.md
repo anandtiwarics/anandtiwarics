@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -104,5 +104,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anandtiwarics/anandtiwarics/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/06/2021
+ Last Updated on 24/06/2021
 <!--END_SECTION:waka-->
