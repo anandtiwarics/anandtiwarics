@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 95 Contributions in the Year 2021
+> 🏆 98 Contributions in the Year 2021
  > 
 > 📦 227.4 kB Used in Github's Storage 
  > 
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 ```text
 Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
 Tuesday      64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
-Wednesday    10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
+Wednesday    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
 Thursday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
 Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
 Sunday       71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01%
 
@@ -104,5 +104,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anandtiwarics/anandtiwarics/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
