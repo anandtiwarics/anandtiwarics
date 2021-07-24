@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 98 Contributions in the Year 2021
+> 🏆 102 Contributions in the Year 2021
  > 
 > 📦 227.4 kB Used in Github's Storage 
  > 
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+🌞 Morning    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
 🌆 Daytime    119 commits    ████████░░░░░░░░░░░░░░░░░   34.8% 
-🌃 Evening    109 commits    ████████░░░░░░░░░░░░░░░░░   31.87% 
+🌃 Evening    107 commits    ███████░░░░░░░░░░░░░░░░░░   31.29% 
 🌙 Night      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08%
 
 ```
@@ -104,5 +104,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anandtiwarics/anandtiwarics/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2021
+ Last Updated on 24/07/2021
 <!--END_SECTION:waka-->
