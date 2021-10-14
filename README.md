@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 211 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 234.3 kB Used in GitHub's Storage 
  > 
@@ -104,5 +104,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anandtiwarics/anandtiwarics/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
