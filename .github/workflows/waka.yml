@@ -8,6 +8,10 @@ on:
     # Runs at 00:00AM UTC
     - cron: '0 0 * * *'
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   update-readme:
     name: Update this repo's README
