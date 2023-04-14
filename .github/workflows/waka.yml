@@ -8,10 +8,6 @@ on:
     # Runs at 00:00AM UTC
     - cron: '0 0 * * *'
 
-permissions:
-  contents: read
-  pull-requests: write
-
 jobs:
   update-readme:
     name: Update this repo's README
@@ -20,7 +16,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
