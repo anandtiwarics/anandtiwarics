@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
 
@@ -104,5 +104,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2023 01:26:22 UTC
+ Last Updated on 26/04/2023 01:24:24 UTC
 <!--END_SECTION:waka-->
