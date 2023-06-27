@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.9%20million%20lines%20of%20code-blue)
 
@@ -104,5 +104,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2023 01:54:45 UTC
+ Last Updated on 27/06/2023 01:54:24 UTC
 <!--END_SECTION:waka-->
