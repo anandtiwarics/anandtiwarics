@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 240.9 kB Used in GitHub's Storage 
+> 📦 241.0 kB Used in GitHub's Storage 
  > 
 > 🏆 70 Contributions in the Year 2023
  > 
@@ -78,13 +78,13 @@ Sunday                   10632 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2023 01:48:59 UTC
+ Last Updated on 30/06/2023 01:47:08 UTC
 <!--END_SECTION:waka-->
