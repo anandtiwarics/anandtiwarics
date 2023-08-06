@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.9%20million%20lines%20of%20code-blue)
 
@@ -78,14 +78,16 @@ Sunday                   10632 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     33 mins             ███████████████░░░░░░░░░░   61.30 % 
-Terraform                21 mins             ██████████░░░░░░░░░░░░░░░   38.70 % 
+Bash                     37 mins             ████████████████░░░░░░░░░   64.94 % 
+Terraform                19 mins             █████████░░░░░░░░░░░░░░░░   34.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +103,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2023 01:21:36 UTC
+ Last Updated on 06/08/2023 01:18:43 UTC
 <!--END_SECTION:waka-->
