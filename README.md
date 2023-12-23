@@ -78,13 +78,13 @@ Sunday                   12300 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-INI                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -100,5 +100,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2023 01:16:51 UTC
+ Last Updated on 23/12/2023 01:14:38 UTC
 <!--END_SECTION:waka-->
