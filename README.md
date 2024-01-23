@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -78,13 +78,14 @@ Sunday                   12111 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   36 mins             ████████████████████████░   94.71 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -100,5 +101,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2024 01:21:58 UTC
+ Last Updated on 23/01/2024 01:20:12 UTC
 <!--END_SECTION:waka-->
