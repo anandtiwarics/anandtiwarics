@@ -90,15 +90,15 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HCL                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HCL                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 06/02/2024 01:11:54 UTC
+ Last Updated on 07/02/2024 01:10:36 UTC
 <!--END_SECTION:waka-->
