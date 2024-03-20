@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 241.0 kB Used in GitHub's Storage 
+> 📦 241.1 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2024
  > 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                19311 commits       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-🌆 Daytime                23525 commits       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+🌆 Daytime                23526 commits       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 🌃 Evening                33121 commits       ██████████░░░░░░░░░░░░░░░   38.76 % 
 🌙 Night                  9486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 ```
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   9084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Tuesday                  12750 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  12751 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 Wednesday                12371 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 Thursday                 14012 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 Friday                   10692 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
@@ -78,13 +78,15 @@ Sunday                   13838 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      35 mins             ████████████████░░░░░░░░░   62.02 % 
+Text                     20 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -100,5 +102,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2024 01:12:52 UTC
+ Last Updated on 20/03/2024 01:13:20 UTC
 <!--END_SECTION:waka-->
