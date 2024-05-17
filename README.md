@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 > 📦 241.1 kB Used in GitHub's Storage 
  > 
+> 🏆 34 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 80 Public Repositories 
@@ -98,5 +100,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2024 01:18:48 UTC
+ Last Updated on 17/05/2024 01:18:51 UTC
 <!--END_SECTION:waka-->
