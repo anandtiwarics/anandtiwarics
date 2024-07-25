@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.2%20million%20lines%20of%20code-blue)
@@ -43,48 +41,14 @@ Here are some ideas to get you started:
 
 > 📦 241.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 81 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                23482 commits       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌆 Daytime                28812 commits       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌃 Evening                40046 commits       ██████████░░░░░░░░░░░░░░░   38.58 % 
-🌙 Night                  11467 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   11117 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Tuesday                  15731 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Wednesday                15074 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Thursday                 16965 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Friday                   12906 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Saturday                 15306 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   16708 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 9 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -98,5 +62,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 01:26:46 UTC
+ Last Updated on 25/07/2024 01:27:46 UTC
 <!--END_SECTION:waka-->
