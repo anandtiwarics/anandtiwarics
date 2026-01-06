@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.66%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,6 +51,42 @@ Here are some ideas to get you started:
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                23774 commits       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+🌆 Daytime                29194 commits       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌃 Evening                40493 commits       ██████████░░░░░░░░░░░░░░░   38.54 % 
+🌙 Night                  11596 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   11242 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Tuesday                  15885 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                15298 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 17232 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Friday                   13075 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Saturday                 15453 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Sunday                   16872 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -62,5 +100,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:21:20 UTC
+ Last Updated on 06/01/2026 02:14:00 UTC
 <!--END_SECTION:waka-->
