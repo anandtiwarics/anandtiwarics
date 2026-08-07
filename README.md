@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.09%20million%20lines%20of%20code-blue?style=flat)
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 
 > 📦 262.7 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 21 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,48 +49,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                23921 commits       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-🌆 Daytime                29339 commits       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-🌃 Evening                40664 commits       ██████████░░░░░░░░░░░░░░░   38.50 % 
-🌙 Night                  11691 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   11273 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Tuesday                  16042 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                15401 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 17346 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Friday                   13153 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Saturday                 15479 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Sunday                   16921 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -106,5 +62,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 00:58:22 UTC
+ Last Updated on 07/08/2026 01:39:05 UTC
 <!--END_SECTION:waka-->
